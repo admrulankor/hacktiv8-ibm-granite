@@ -8,7 +8,7 @@ IBM Granite Code 3B using Ollama, Bootstrap
 
 ## Features
 
-Navigatable coontent, projects list, form
+Navigable content, projects list in Bootstrap cards, form
 
 ## Setup instructions
 
