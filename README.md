@@ -12,7 +12,7 @@ Navigatable coontent, projects list, form
 
 ## Setup instructions
 
-Simply clone and open `index.html`
+Simply clone and open `index.html`. Or use [the available GitHub Pages site](https://admrulankor.github.io/hacktiv8-ibm-granite/)
 
 ## AI support explanation
 
